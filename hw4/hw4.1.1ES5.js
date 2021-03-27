@@ -12,5 +12,6 @@ Products.prototype.make25PercentDiscount = function () {
 
 let product1 = new Products("Товар1", 100);
 
+
 product1.make25PercentDiscount();
 alert(product1.price);

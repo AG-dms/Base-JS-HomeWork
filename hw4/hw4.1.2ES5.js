@@ -11,6 +11,7 @@ Post.prototype.edit = function (someText) {
 
 
 
+
 // Не понял как свойству highlighted присвоить значени false. Это нужно сделать прямо в конструкторе? тогда как?
 // Или непосредственно уже при создании объекта нужно передать ему значение false?
 function AttachedPost(author, text, date, highlighted) {
