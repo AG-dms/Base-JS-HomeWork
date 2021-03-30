@@ -20,4 +20,5 @@ products.forEach(discount => {
     discount.price = Math.round(discount.price / 1.15);
 });
 
+
 console.log(products);
