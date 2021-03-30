@@ -16,4 +16,5 @@ let product2 = new Products('товар 2', 200);
 
 product2.make25PercentDiscount();
 
+
 alert(product2.price);
